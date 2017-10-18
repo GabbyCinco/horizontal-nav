@@ -15,16 +15,20 @@ h1 {
 }
 
 body {
+  display: block;
   background-color: #79756f;
   margin: 0;
   padding: 0;
   width: 100%;
+  border-bottom: 5px;
 }
 
-nav ul {
+nav a {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-decoration: none;
+  color: #fff;
 }
 
 nav li {
