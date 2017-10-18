@@ -28,4 +28,9 @@ body {
   background-color: #713837;
   display: inline-block;
   border-radius: 5px;
+  color: #fff;
+}
+
+.planets li:hover {
+  background-color: #f33;
 }
