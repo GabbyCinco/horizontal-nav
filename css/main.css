@@ -1,6 +1,6 @@
 html {
-  font-family: Bevan;
-  line-height: 1.5;
+  font-family: Bevan, serif;
+  line-height: .75;
   background-color: #dbd6cf;
   color: #fff;
   box-sizing: border-box;
@@ -12,7 +12,7 @@ html {
 
 h1 {
   text-align: center;
-  font-family: Bevan;
+  font-family: Bevan, serif;
   padding: 0;
 }
 
@@ -36,11 +36,12 @@ nav a {
   font-family: sans-serif;
   display: inline-block;
   text-align: center;
+  margin: .25em;
 }
 
 nav li {
-  margin: 0;
-  padding: .5em .75em;
+  margin: .15em .05em;
+  padding: .4em .6em;
   background-color: #713837;
   display: inline-block;
   border-radius: 4px;
