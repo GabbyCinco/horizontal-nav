@@ -14,9 +14,10 @@ h1 {
   text-align: center;
 }
 
-.planets {
+.planets li {
   padding: .5em;
   margin: .3em;
   list-style-type: none;
   text-align: center;
+  background-color: #713837;
 }
