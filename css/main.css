@@ -13,6 +13,7 @@ html {
 h1 {
   text-align: center;
   font-family: Bevan;
+  padding: 0;
 }
 
 body {
@@ -25,6 +26,7 @@ body {
 
 nav ul {
   text-align: center;
+  padding: 0;
 }
 
 nav a {
@@ -37,7 +39,7 @@ nav a {
 }
 
 nav li {
-  margin: .3em;
+  margin: 0;
   padding: .5em .75em;
   background-color: #713837;
   display: inline-block;
