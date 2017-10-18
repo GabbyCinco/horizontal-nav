@@ -19,6 +19,8 @@ body {
   background-color: #79756f;
   margin: 0;
   padding: 0;
+  border-style: solid;
+  border-color: #595652;
 }
 
 nav ul {
@@ -36,7 +38,7 @@ nav a {
 
 nav li {
   margin: .3em;
-  padding: .5em;
+  padding: .5em .75em;
   background-color: #713837;
   display: inline-block;
   border-radius: 4px;
