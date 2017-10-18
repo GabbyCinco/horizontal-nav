@@ -20,4 +20,5 @@ h1 {
   list-style-type: none;
   text-align: center;
   background-color: #713837;
+  display: inline-block;
 }
